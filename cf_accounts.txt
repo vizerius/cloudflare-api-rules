@@ -1,1 +1,2 @@
 /cloudflare-rules/index.php?delnext
+inside install clone../
